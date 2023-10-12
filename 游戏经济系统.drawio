@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T08:21:27.062Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AvOQBjfbw6KpIHAis9El" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T08:27:59.414Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VxyxKUMuVgYp9JW6gQVa" version="22.0.4" type="github">
   <diagram name="第 1 页" id="cnAK6zxrRtvMNEw_1psN">
     <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,65 +6,71 @@
         <mxCell id="1" parent="0" />
         <mxCell id="W0va-TfwMzZbDuSETiZr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W0va-TfwMzZbDuSETiZr-1" target="W0va-TfwMzZbDuSETiZr-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="420" as="targetPoint" />
+            <mxPoint x="300" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-1" value="金币" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0va-TfwMzZbDuSETiZr-2" target="W0va-TfwMzZbDuSETiZr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-2" value="钻石" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-3" value="体力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0va-TfwMzZbDuSETiZr-5" target="W0va-TfwMzZbDuSETiZr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-5" value="人民币" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W0va-TfwMzZbDuSETiZr-8" target="W0va-TfwMzZbDuSETiZr-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-8" value="时间" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-19" value="入场券" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-22" value="10:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-23" value="100:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-10" value="游戏" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.125;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-24" value="1 钻石 = 10 金币&#xa;&#xa;&#xa;每日任务 1200 金币&#xa;(看广告可双倍领取)&#xa;每日金币不足时赠送 1000金币 * 3次&#xa;(看广告可再领取3次)&#xa;&#xa;游玩至少需要 1000 金币&#xa;入场券: 300 金币&#xa;四人模式：+600 +300 -300 -600&#xa;三人模式：+500 0 -500&#xa;双人模式：+400 -400&#xa;&#xa;&#xa;目前ELO积分制仍然运作，分段位&#xa;保护新手玩家" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="195" height="260" as="geometry" />
+          <mxGeometry x="380" y="260" width="195" height="260" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-26" value="满体力160 点&lt;br&gt;每8分钟恢复一点&lt;br&gt;&lt;br&gt;玩一局 -20体力&lt;br&gt;每日有 3 次免费加体力机会&lt;br&gt;每次 + 60 体力" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="170" height="100" as="geometry" />
+          <mxGeometry x="60" y="260" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-27" value="5" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="290" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-28" value="3" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="360" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-29" value="3" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="150" y="340" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W0va-TfwMzZbDuSETiZr-31" value="VIP会员，免除一切广告&lt;br&gt;每日登录赠送3000金币&lt;br&gt;&lt;br&gt;周卡 650钻&lt;br&gt;月卡 2000钻" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="150" height="90" as="geometry" />
+        <mxCell id="W0va-TfwMzZbDuSETiZr-31" value="VIP会员，免除一切广告&lt;br&gt;每日登录赠送3000金币&lt;br&gt;刷新任务机会增加到3次&lt;br&gt;每日3次免掉分&lt;br&gt;&lt;br&gt;周卡 650钻&lt;br&gt;月卡 2000钻" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="W0va-TfwMzZbDuSETiZr-32" value="【青铜 I~III】[0, 300)&#xa;【白银 I~IV】[300, 700)&#xa;【黄金 I~V】[700, 1200)&#xa;【钻石 I~V】[1200, 1700)&#xa;【王者 n星】[1700, +∞)&#xa;&#xa;&#xa;新手场（青铜限定）&#xa;初级场（青铜 + 白银）&#xa;中级场（白银 + 黄金）&#xa;高级场（黄金 + 钻石 + 王者）&#xa;至尊场（钻石 + 王者）&#xa;&#xa;&#xa;例如：&#xa;1996 = 王者4星 96胜点&#xa;1468 = 钻石III 68胜点&#xa;1442 = 钻石III 42胜点&#xa;1365 = 钻石IV 65胜点&#xa;1331 = 钻石IV 31胜点" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="520" width="190" height="310" as="geometry" />
+        <mxCell id="W0va-TfwMzZbDuSETiZr-32" value="【青铜 I~III】[0, 300)&#xa;【白银 I~IV】[300, 700)&#xa;【黄金 I~V】[700, 1200)&#xa;【钻石 I~V】[1200, 1700)&#xa;【王者 n星】[1700, +∞)&#xa;&#xa;&#xa;新手场（机器人 + 青铜）&#xa;初级场（青铜 + 白银）&#xa;中级场（白银 + 黄金）&#xa;高级场（黄金 + 钻石 + 王者）&#xa;至尊场（钻石 + 王者）&#xa;&#xa;&#xa;例如：&#xa;1996 = 王者4星 96胜点&#xa;1468 = 钻石III 68胜点&#xa;1442 = 钻石III 42胜点&#xa;1365 = 钻石IV 65胜点&#xa;1331 = 钻石IV 31胜点" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="190" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-33" value="任务只能在排位模式中完成&lt;br&gt;每日有一次刷新任务机会" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-34" value="排行榜奖励将改为等量的金币" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
