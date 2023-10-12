@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T08:29:15.301Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9g9TkCTNw6iDNJyKW46E" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T08:33:22.884Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kd2w9rGJj141ZW-HnEk9" version="22.0.4" type="github">
   <diagram name="第 1 页" id="cnAK6zxrRtvMNEw_1psN">
     <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-34" value="排行榜奖励将改为等量的金币" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="530" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-35" value="钻石奖励：&lt;br&gt;赛季首次达到白银段位：奖励100钻&lt;br&gt;赛季首次达到黄金段位：奖励200钻&lt;br&gt;赛季首次达到钻石段位：奖励300钻&lt;br&gt;赛季首次达到钻石段位：奖励400钻&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="570" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
