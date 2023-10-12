@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T08:08:29.529Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hd0eSddOczV5DEiacS5K" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T08:21:27.062Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AvOQBjfbw6KpIHAis9El" version="22.0.4" type="github">
   <diagram name="第 1 页" id="cnAK6zxrRtvMNEw_1psN">
     <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="W0va-TfwMzZbDuSETiZr-31" value="VIP会员，免除一切广告&lt;br&gt;每日登录赠送3000金币&lt;br&gt;&lt;br&gt;周卡 650钻&lt;br&gt;月卡 2000钻" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-32" value="【青铜 I~III】[0, 300)&#xa;【白银 I~IV】[300, 700)&#xa;【黄金 I~V】[700, 1200)&#xa;【钻石 I~V】[1200, 1700)&#xa;【王者 n星】[1700, +∞)&#xa;&#xa;&#xa;新手场（青铜限定）&#xa;初级场（青铜 + 白银）&#xa;中级场（白银 + 黄金）&#xa;高级场（黄金 + 钻石 + 王者）&#xa;至尊场（钻石 + 王者）&#xa;&#xa;&#xa;例如：&#xa;1996 = 王者4星 96胜点&#xa;1468 = 钻石III 68胜点&#xa;1442 = 钻石III 42胜点&#xa;1365 = 钻石IV 65胜点&#xa;1331 = 钻石IV 31胜点" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="190" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
