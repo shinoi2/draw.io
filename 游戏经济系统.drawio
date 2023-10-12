@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T07:25:36.542Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="02njnk5YlVJB6-H8f7wv" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T08:05:44.840Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QMdskfIXphppXDQAk2oD" version="22.0.4" type="github">
   <diagram name="第 1 页" id="cnAK6zxrRtvMNEw_1psN">
     <mxGraphModel dx="1050" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,11 +42,26 @@
         <mxCell id="W0va-TfwMzZbDuSETiZr-23" value="100:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W0va-TfwMzZbDuSETiZr-10" value="游戏" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.041666666666666664;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="240" height="40" as="geometry" />
+        <mxCell id="W0va-TfwMzZbDuSETiZr-10" value="游戏" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W0va-TfwMzZbDuSETiZr-24" value="1 钻石 = 10 金币&#xa;&#xa;&#xa;每日任务 1200 金币&#xa;每日金币不足时赠送 1000金币 * 3次&#xa;&#xa;游玩至少需要 1000 金币&#xa;入场券: 300 金币&#xa;四人模式：+600 +300 -300 -600&#xa;三人模式：+500 0 -500&#xa;双人模式：+400 -400&#xa;&#xa;&#xa;新手场 &lt; 5000金币&#xa;高手场 &gt;= 5000金币" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="535" y="250" width="210" height="240" as="geometry" />
+        <mxCell id="W0va-TfwMzZbDuSETiZr-24" value="1 钻石 = 10 金币&#xa;&#xa;&#xa;每日任务 1200 金币&#xa;(看广告可双倍领取)&#xa;每日金币不足时赠送 1000金币 * 3次&#xa;(看广告可再领取3次)&#xa;&#xa;游玩至少需要 1000 金币&#xa;入场券: 300 金币&#xa;四人模式：+600 +300 -300 -600&#xa;三人模式：+500 0 -500&#xa;双人模式：+400 -400&#xa;&#xa;&#xa;目前ELO积分制仍然运作，分段位&#xa;保护新手玩家" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="195" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-26" value="满体力160 点&lt;br&gt;每8分钟恢复一点&lt;br&gt;&lt;br&gt;玩一局 -20体力&lt;br&gt;每日有 3 次免费加体力机会&lt;br&gt;每次 + 60 体力" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-27" value="5" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-28" value="3" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-29" value="3" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W0va-TfwMzZbDuSETiZr-31" value="VIP会员，免除一切广告&lt;br&gt;每日登录赠送3000金币&lt;br&gt;&lt;br&gt;周卡 650钻&lt;br&gt;月卡 2000钻" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
